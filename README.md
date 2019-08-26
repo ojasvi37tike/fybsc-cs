@@ -1,0 +1,2 @@
+# fybsc-cs
+foss prac
